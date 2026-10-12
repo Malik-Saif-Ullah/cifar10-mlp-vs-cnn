@@ -1,0 +1,11 @@
+# CIFAR-10 is downloaded by the notebook into ./data
+data/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Misc
+.DS_Store
+*.pt
