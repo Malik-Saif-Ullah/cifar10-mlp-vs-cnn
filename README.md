@@ -4,7 +4,7 @@ A comparison of a Multi-Layer Perceptron and a small Convolutional Neural Networ
 
 **Author:** Malik Saif Ullah
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/cifar10-mlp-vs-cnn/blob/main/notebooks/MLP_vs_CNN_for_CIFAR10.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Malik-Saif-Ullah/cifar10-mlp-vs-cnn/blob/main/notebooks/MLP_vs_CNN_for_CIFAR10.ipynb)
 
 ## What this project does
 
@@ -28,7 +28,7 @@ All tables, plots, per-run observations and the final discussion are generated b
 ### Running locally instead
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/cifar10-mlp-vs-cnn.git
+git clone https://github.com/Malik-Saif-Ullah/cifar10-mlp-vs-cnn.git
 cd cifar10-mlp-vs-cnn
 pip install -r requirements.txt
 jupyter notebook notebooks/MLP_vs_CNN_for_CIFAR10.ipynb
